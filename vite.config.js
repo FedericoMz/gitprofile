@@ -11,16 +11,16 @@ export default defineConfig({
 
   // If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/, for example your repository is at https://github.com/<USERNAME>/<REPO_NAME>, then set base to '/<REPO_NAME>/'.
 
-  base: '/gitprofile/',
+  base: '/',
   plugins: [
     react(),
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['logo.png'],
       manifest: {
-        name: 'Portfolio',
+        name: 'Federico Mazzoni \'s Portfolio',
         short_name: 'Portfolio',
-        description: 'Personal Portfolio',
+        description: 'Federico Mazzoni \'s Portfolio',
         icons: [
           {
             src: 'logo.png',
