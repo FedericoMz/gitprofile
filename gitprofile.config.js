@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'federico-mazzoni-728953247',
     twitter: '',
     mastodon: '',
     facebook: '',
@@ -32,20 +32,16 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Python',
+    'R',
+    'Java',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Tabular Data Analysis',
+    'Text Analysis / NLP',
+    'Network Analysis',
+    'Machine Learning',
+    'Incremental Learning',
+    'Human-Machine Interaction',
   ],
   experiences: [
     {
@@ -67,15 +63,15 @@ const config = {
   education: [
     {
       institution: 'University of Pisa',
-      degree: 'Bachelor\'s Degree',
-      from: '2015',
-      to: '2019',
+      degree: 'Master\'s Degree in Digital Humanities',
+      from: '2020',
+      to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Pisa',
+      degree: 'Bachelor\'s Degree in Philosophy',
+      from: '2014',
+      to: '2017',
     },
   ],
 
