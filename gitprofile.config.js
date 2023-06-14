@@ -156,7 +156,9 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Thank you for visiting my website!  <img src="https://i.imgur.com/DGuPmTn.gif" alt="Bye" class="center"> `,
+
+  
+  footer: `Thank you for visiting my website! <p style="text-align:center;"><img src="https://i.imgur.com/DGuPmTn.gi" alt="Bye!"></p>`,
 };
 
 export default config;
