@@ -49,13 +49,13 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'University of Pisa',
+      position: 'PhD Student in AI',
+      from: 'November 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
-    {
+    /*{
       company: 'Company Name',
       position: 'Position',
       from: 'July 2019',
@@ -73,16 +73,22 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Pisa',
+      degree: 'Master\'s Degree in Digital Humanities',
+      from: '2020',
+      to: '2022',
     },
     {
       institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      degree: 'Master\'s Program in Scriptwriting',
+      from: '2017',
+      to: '2019',
+    },
+    {
+      institution: 'University of Pisa',
+      degree: 'Bachelor\'s Degree in Digital Humanities',
+      from: '2014',
+      to: '2017',
     },
   ],
 
