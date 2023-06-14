@@ -53,7 +53,7 @@ const config = {
       position: 'PhD Student in AI',
       from: 'November 2022',
       to: 'Present',
-      companyLink: '',
+      companyLink: 'www.pippo.it',
     },
     /*{
       company: 'Company Name',
@@ -71,7 +71,7 @@ const config = {
       link: 'https://example.com'
     },
   ], */
-  education: [
+/* education: [
     {
       institution: 'University of Pisa',
       degree: 'Master\'s Degree in Digital Humanities',
