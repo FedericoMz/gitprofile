@@ -47,7 +47,7 @@ const config = {
     'Antd',
     'Tailwind',
   ],
-  experiences: [
+  /*experiences: [
     {
       company: 'University of Pisa',
       position: 'PhD Student in AI',
