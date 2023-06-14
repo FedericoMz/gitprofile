@@ -87,15 +87,15 @@ const config = {
     {
       title: 'GenFair',
       description:
-        'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data',
+        'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data.',
       imageUrl: 'https://i.imgur.com/utmCqQY.png',
       link: 'https://example.com',
     },
     {
       title: 'FairNet',
       description:
-        'Pre-processing framework for networks, employing a genetic algorithm to reduce marginalization',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'Pre-processing framework for networks, employing a genetic algorithm to reduce marginalization and promote diversity.',
+      imageUrl: 'https://i.imgur.com/Jud5lmB.png',
       link: 'https://example.com',
     },
   ],
