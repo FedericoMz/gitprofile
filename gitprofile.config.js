@@ -81,7 +81,7 @@ const config = {
       title: 'Frank',
       description:
         'Hybrid decision maker based on Skeptical Learning. Also, a friend.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://images.macworld.co.uk/cmsdata/features/3531545/happy-Mac-original.jpg',
       link: 'https://example.com',
     },
     {
