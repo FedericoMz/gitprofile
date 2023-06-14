@@ -2,9 +2,9 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    username: 'FedericoMz', // Your GitHub org/user name. (Required)
+    sortBy: 'updated', // stars | updated
+    limit: 2, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -82,16 +82,23 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Frank',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Hybrid decision maker based on Skeptical Learning. Also, a friend.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'GenFair',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+    {
+      title: 'FairNet',
+      description:
+        'Pre-processing framework for networks, employing a genetic algorithm to reduce marginalization',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
