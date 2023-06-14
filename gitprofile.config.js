@@ -88,7 +88,7 @@ const config = {
       title: 'GenFair',
       description:
         'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data',
-      imageUrl: 'https://i.imgur.com/3AnY9Kq.png',
+      imageUrl: 'https://i.imgur.com/utmCqQY.png',
       link: 'https://example.com',
     },
     {
