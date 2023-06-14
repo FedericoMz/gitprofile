@@ -18,9 +18,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['logo.png'],
       manifest: {
-        name: 'Federico Mazzoni \'s Portfolio',
+        name: 'Portfolio of Federico Mazzoni',
         short_name: 'Portfolio',
-        description: 'Federico Mazzoni \'s Portfolio',
+        description: 'Portfolio of Federico Mazzoni',
         icons: [
           {
             src: 'logo.png',
