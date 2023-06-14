@@ -100,11 +100,19 @@ const config = {
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
-  },
+
+
+  
+  // blog: {
+    //source: 'dev', // medium | dev
+    //username: 'arifszn', // to hide blog section, keep it empty
+    //limit: 2, // How many posts to display. Max is 10.
+  //},
+
+
+
+
+  
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
@@ -148,7 +156,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Thank you for visiting my website!  <img src="https://i.imgur.com/DGuPmTn.gif" alt="Bye"> `,
+  footer: `Thank you for visiting my website!  <img src="https://i.imgur.com/DGuPmTn.gif" alt="Bye" class="center"> `,
 };
 
 export default config;
