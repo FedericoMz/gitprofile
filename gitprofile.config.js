@@ -89,7 +89,7 @@ const config = {
       description:
         'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data.',
       imageUrl: 'https://i.imgur.com/utmCqQY.png',
-      link: 'https://example.com',
+      link: 'https://etd.adm.unipi.it/t/etd-06012022-053415/',
     },
     {
       title: 'FairNet',
