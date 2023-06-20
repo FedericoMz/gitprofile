@@ -95,7 +95,7 @@ const config = {
       title: 'FairNet',
       description:
         'Pre-processing framework for networks, employing a genetic algorithm to reduce marginalization and promote diversity.',
-      imageUrl: 'https://i.imgur.com/Jud5lmB.png',
+      imageUrl: 'https://i.imgur.com/M0ncKwu.jpg',
       link: 'https://example.com',
     },
   ],
