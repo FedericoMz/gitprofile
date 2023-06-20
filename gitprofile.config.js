@@ -158,7 +158,7 @@ const config = {
   // Optional Footer. Supports plain text or HTML.
 
   
-  footer: `<p style="text-align:center;"><img src="https://i.imgur.com/DGuPmTn.gif" alt="Bye!"></p>`,
+  // footer: `<p style="text-align:center;"><img src="https://i.imgur.com/DGuPmTn.gif" alt="Bye!"></p>`,
 };
 
 export default config;
