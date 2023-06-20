@@ -81,7 +81,7 @@ const config = {
       title: 'Frank',
       description:
         'Hybrid decision maker based on Skeptical Learning. Also, a friend.',
-      imageUrl: 'https://i.imgur.com/2TqgqkD.jpg',
+      imageUrl: 'https://github.com/FedericoMz/FedericoMz.github.io/blob/main/photo_2023-06-20_15-42-52.jpg',
       link: 'https://example.com',
     },
     {
