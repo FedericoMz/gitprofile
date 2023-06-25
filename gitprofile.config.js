@@ -85,18 +85,18 @@ const config = {
       link: 'https://drive.google.com/file/d/199WsUBmAGolzcMYpdPuM_-Y3l5JOb1cd/view?usp=sharing',
     },
     {
+      title: 'GenFair',
+      description:
+        'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data.',
+      imageUrl: 'https://i.imgur.com/utmCqQY.png',
+      link: 'https://etd.adm.unipi.it/t/etd-06012022-053415/',
+    },
+    {
       title: 'FairNet',
       description:
         'Pre-processing framework for networks, employing a genetic algorithm to reduce marginalization and promote diversity.',
       imageUrl: 'https://i.imgur.com/M0ncKwu.jpg',
       link: 'https://drive.google.com/file/d/1rPOY6xiKxi3WggnMkfii2HhSC1x3bnvt/view?usp=sharing',
-    },
-    {
-      title: 'GenFair',
-      description:
-        'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data. My Master\'s thesis.',
-      imageUrl: 'https://i.imgur.com/utmCqQY.png',
-      link: 'https://etd.adm.unipi.it/t/etd-06012022-053415/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
