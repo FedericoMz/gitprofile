@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1ek61fdO2T5V3lJSn6r9Q9bjXOilcX81N/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -82,7 +82,7 @@ const config = {
       description:
         'Hybrid decision maker based on Skeptical Learning. Also, a friend.',
       imageUrl: 'https://i.imgur.com/42PhvFU.jpg',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/199WsUBmAGolzcMYpdPuM_-Y3l5JOb1cd/view?usp=sharing',
     },
     {
       title: 'GenFair',
@@ -96,7 +96,7 @@ const config = {
       description:
         'Pre-processing framework for networks, employing a genetic algorithm to reduce marginalization and promote diversity.',
       imageUrl: 'https://i.imgur.com/M0ncKwu.jpg',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/1rPOY6xiKxi3WggnMkfii2HhSC1x3bnvt/view?usp=sharing',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
