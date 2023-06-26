@@ -92,7 +92,7 @@ const config = {
       link: 'https://drive.google.com/file/d/1rPOY6xiKxi3WggnMkfii2HhSC1x3bnvt/view?usp=sharing',
     },
     {
-      title: 'GenFair',
+      title: 'FairGen',
       description:
         'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data.',
       imageUrl: 'https://i.imgur.com/9WXNCK7.png', //'https://i.imgur.com/utmCqQY.png',
