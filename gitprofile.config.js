@@ -45,11 +45,18 @@ const config = {
   ],
   experiences: [
     {
+      company: 'Consiglio Nazionale delle Ricerche',
+      position: 'Associate Researcher',
+      from: 'February 2023',
+      to: 'Present',
+      companyLink: 'https://www.isti.cnr.it/en/chi-siamo/people-detail/1023/Federico_Mazzoni',
+    },
+    {
       company: 'University of Pisa',
       position: 'PhD Student in AI',
       from: 'November 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.unipi.it/',
     },
   ],
   /* certifications: [
