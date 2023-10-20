@@ -94,14 +94,14 @@ const config = {
     {
       title: 'FairNet',
       description:
-        'An algorithm to reduce discrimination in networks and promote diversity',
+        'Pre-processing framework for networks, employing a genetic algorithm to reduce marginalization and promote diversity.',
       imageUrl: 'https://i.imgur.com/M0ncKwu.jpg',
       link: 'https://drive.google.com/file/d/1rPOY6xiKxi3WggnMkfii2HhSC1x3bnvt/view?usp=sharing',
     },
     {
       title: 'GenFair',
       description:
-        'A pre-processing framework for tabular data. A genetic algorithm creates synthetic data to enhance fairness.',
+        'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data.',
       imageUrl: 'https://i.imgur.com/9WXNCK7.png', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/GenFair',
     },
