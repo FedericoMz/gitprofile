@@ -87,14 +87,14 @@ const config = {
     {
       title: 'Frank',
       description:
-        'Hybrid decision maker based on Skeptical Learning. Also, a friend.',
+        'Multi-purpose hybrid decision maker based on Skeptical Learning. Also, a friend.',
       imageUrl: 'https://i.imgur.com/42PhvFU.jpg',
       link: 'https://drive.google.com/file/d/199WsUBmAGolzcMYpdPuM_-Y3l5JOb1cd/view?usp=sharing',
     },
     {
       title: 'FairNet',
       description:
-        'Pre-processing framework for networks, employing a genetic algorithm to reduce marginalization and promote diversity.',
+        'A library to reduce marginalization and promote diversity in networks.',
       imageUrl: 'https://i.imgur.com/M0ncKwu.jpg',
       link: 'https://drive.google.com/file/d/1rPOY6xiKxi3WggnMkfii2HhSC1x3bnvt/view?usp=sharing',
     },
