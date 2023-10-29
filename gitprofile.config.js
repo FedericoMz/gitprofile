@@ -143,7 +143,7 @@ const config = {
     {
       title: '2021. Data Mining Project',
       description:
-        'University project. Analysis and classification of songs with several advanced Data Mining techniques.',
+        'University project. Analysis and classification of songs with advanced Data Mining techniques.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/DM2-FMAProject/',
     },
