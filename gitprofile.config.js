@@ -88,8 +88,7 @@ const config = {
       title: 'WIP. Trust Analyzer',
       description:
         'Quantifying and analysing trust in human - human networks and human - LLM interactions.',
-      imageUrl: 'https://imgur.com/Kcb9hNg',
-      link: '',
+      imageUrl: 'https://i.imgur.com/Kcb9hNg.png'
     },
     {
       title: '2023. Frank',
