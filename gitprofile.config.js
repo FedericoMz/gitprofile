@@ -85,6 +85,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'Frank//University Project',
+      description:
+        'Multi-purpose hybrid decision maker based on Skeptical Learning. Also, a friend.',
+      imageUrl: 'https://i.imgur.com/42PhvFU.jpg',
+      link: 'https://drive.google.com/file/d/199WsUBmAGolzcMYpdPuM_-Y3l5JOb1cd/view?usp=sharing',
+    },
+    {
       title: 'Frank',
       description:
         'Multi-purpose hybrid decision maker based on Skeptical Learning. Also, a friend.',
