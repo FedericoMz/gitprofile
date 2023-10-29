@@ -109,7 +109,7 @@ const config = {
     {
       title: '2022. GenFair',
       description:
-        'A framework for tabular data, employing a genetic algorithm to create fair synthetic data.',
+        'Improving fairness in tabular data, creating synthetic data with a genetic algorithm.',
       imageUrl: 'https://i.imgur.com/9WXNCK7.png', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/GenFair',
     },
