@@ -88,8 +88,8 @@ const config = {
       title: 'WIP. Trust Analyzer',
       description:
         'Quantifying and analysing trust in human - human networks and human - LLM interactions.',
-      imageUrl: 'https://federicomz.github.io/',
-      link: 'https://drive.google.com/file/d/199WsUBmAGolzcMYpdPuM_-Y3l5JOb1cd/view?usp=sharing',
+      imageUrl: 'https://i.imgur.com/pBEGkCH.png',
+      link: 'https://federicomz.github.io/',
 
     },
     {
