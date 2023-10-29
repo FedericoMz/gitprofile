@@ -85,34 +85,68 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Frank//University Project',
+      title: 'WIP. Trust Analyzer',
+      description:
+        'Quantifying and analysing trust in human - human networks and human - LLM interactions.',
+      imageUrl: 'https://i.imgur.com/42PhvFU.jpg',
+      link: '',
+    },
+    {
+      title: '2023. Frank',
       description:
         'Multi-purpose hybrid decision maker based on Skeptical Learning. Also, a friend.',
       imageUrl: 'https://i.imgur.com/42PhvFU.jpg',
       link: 'https://drive.google.com/file/d/199WsUBmAGolzcMYpdPuM_-Y3l5JOb1cd/view?usp=sharing',
     },
     {
-      title: 'Frank',
-      description:
-        'Multi-purpose hybrid decision maker based on Skeptical Learning. Also, a friend.',
-      imageUrl: 'https://i.imgur.com/42PhvFU.jpg',
-      link: 'https://drive.google.com/file/d/199WsUBmAGolzcMYpdPuM_-Y3l5JOb1cd/view?usp=sharing',
-    },
-    {
-      title: 'FairNet',
+      title: '2023. FairNet',
       description:
         'A library to reduce marginalization and promote diversity in networks.',
       imageUrl: 'https://i.imgur.com/M0ncKwu.jpg',
       link: 'https://drive.google.com/file/d/1rPOY6xiKxi3WggnMkfii2HhSC1x3bnvt/view?usp=sharing',
     },
     {
-      title: 'GenFair',
+      title: '2022. GenFair',
       description:
         'Pre-processing framework for tabular data, employing a genetic algorithm to create fair synthetic data.',
       imageUrl: 'https://i.imgur.com/9WXNCK7.png', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/GenFair',
     },
-
+    {
+      title: '2022. Text Analytics Project',
+      description:
+        'University project. Classifying the genres of several books from Goodreads.',
+      imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
+      link: 'https://github.com/lyereth/Text-Analytics',
+    },
+    {
+      title: '2022. Distributed Data Project',
+      description:
+        'University project. Distributed analysis of a large dataset of Android apps.',
+      imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
+      link: 'https://github.com/FedericoMz/DDAM-APPEAL',
+    },
+    {
+      title: '2021. Network Analysis Project',
+      description:
+        'University project. Temporal analysis of Nintendo communities from Twitter.',
+      imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
+      link: 'https://github.com/andreafailla/Who-Made-the-Switch',
+    },
+    {
+      title: '2021. Statistics Project',
+      description:
+        'University project. Textual and statistical analysis of tweets from Italian politicians.',
+      imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
+      link: 'https://github.com/FedericoMz/StagedPolitics',
+    },
+    {
+      title: '2021. Data Mining Project',
+      description:
+        'University project. Analysis and classification of songs with several advanced Data Mining techniques.',
+      imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
+      link: 'https://github.com/FedericoMz/DM2-FMAProject/',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
 
