@@ -121,6 +121,13 @@ const config = {
       link: 'https://github.com/lyereth/Text-Analytics',
     },
     {
+      title: '2022. Laboratory of Data Science Project',
+      description:
+        'University project. ETL framework and BI.',
+      imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
+      link: 'https://github.com/FedericoMz/LDS',
+    },
+    {
       title: '2022. Distributed Data Project',
       description:
         'University project. Distributed analysis of a large dataset of Android apps.',
