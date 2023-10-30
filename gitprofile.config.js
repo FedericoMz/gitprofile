@@ -121,7 +121,7 @@ const config = {
       link: 'https://github.com/lyereth/Text-Analytics',
     },
     {
-      title: '2022. Laboratory of Data Science Project',
+      title: '2022. Laboratory of Data Project',
       description:
         'University project. ETL framework and BI.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
