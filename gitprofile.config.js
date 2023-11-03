@@ -128,7 +128,7 @@ const config = {
       link: 'https://github.com/FedericoMz/LDS',
     },
     {
-      title: '2022. Distributed Analysis and Mining',
+      title: '2022. Distributed Data Mining',
       description:
         'University project. Distributed analysis of a large dataset of Android apps.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
