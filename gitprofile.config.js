@@ -123,7 +123,7 @@ const config = {
     {
       title: '2022. Laboratory of Data Project',
       description:
-        'University project. ETL framework and BI.',
+        'University project. Employing an ETL framework (MDX, Visual Studio) for BI.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/LDS',
     },
