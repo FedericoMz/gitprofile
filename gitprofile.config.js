@@ -114,42 +114,42 @@ const config = {
       link: 'https://github.com/FedericoMz/GenFair',
     },
     {
-      title: '2022. Text Analytics Project',
+      title: '2022. Text Analytics',
       description:
         'University project. Classifying the genres of several books from Goodreads.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/lyereth/Text-Analytics',
     },
     {
-      title: '2022. Laboratory of Data Project',
+      title: '2022. Laboratory of Data Science',
       description:
         'University project. Employing an ETL framework (MDX, Visual Studio) for BI.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/LDS',
     },
     {
-      title: '2022. Distributed Data Project',
+      title: '2022. Distributed Analysis and Mining',
       description:
         'University project. Distributed analysis of a large dataset of Android apps.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/DDAM-APPEAL',
     },
     {
-      title: '2021. Network Analysis Project',
+      title: '2021. Social Network Analysis',
       description:
         'University project. Temporal analysis of Nintendo communities from Twitter.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/andreafailla/Who-Made-the-Switch',
     },
     {
-      title: '2021. Statistics Project',
+      title: '2021. Statistics',
       description:
         'University project. Textual and statistical analysis of tweets from Italian politicians.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/StagedPolitics',
     },
     {
-      title: '2021. Data Mining Project',
+      title: '2021. Advanced Data Mining',
       description:
         'University project. Analysis and classification of songs with advanced Data Mining techniques.',
       imageUrl: '', //'https://i.imgur.com/utmCqQY.png',
