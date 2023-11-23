@@ -14,22 +14,6 @@ export default defineConfig({
   base: '/',
   plugins: [
     react(),
-    VitePWA({
-      registerType: 'autoUpdate',
-      includeAssets: ['logo.png'],
-      manifest: {
-        name: 'Portfolio of Federico Mazzoni',
-        short_name: 'Portfolio',
-        description: 'Portfolio of Federico Mazzoni',
-        icons: [
-          {
-            src: 'logo.png',
-            sizes: '64x64 32x32 24x24 16x16 192x192 512x512',
-            type: 'image/png',
-          },
-        ],
-      },
-    }),
   ],
   css: {
     postcss: {
