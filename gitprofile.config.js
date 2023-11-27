@@ -70,7 +70,7 @@ const config = {
   education: [
     {
       institution: 'University of Pisa',
-      degree: 'Master\'s Degree in Digital Humanities <br/> (Data Science and Language Technologies)',
+      degree: 'Master\'s Degree in Digital Humanities (Data Science and NLP)',
       from: '2020',
       to: '2022',
     },
