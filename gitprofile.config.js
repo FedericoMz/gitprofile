@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1LVs5_tQ-tHsy5HGNOWEgoatFVLF-gvnb/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
