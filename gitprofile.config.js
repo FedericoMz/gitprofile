@@ -88,7 +88,7 @@ const config = {
       title: 'WIP. Trust Analyzer',
       description:
         'Quantifying and analysing trust in human - human networks and human - LLM interactions.',
-      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/Trust.jpg',
+      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/Trust.png',
       link: 'https://federicomz.github.io/',
 
     },
@@ -103,7 +103,7 @@ const config = {
       title: '2023. FairNet',
       description:
         'A library to reduce marginalization and promote diversity in networks.',
-      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/FairNet.jpg',
+      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/FairNet.png',
       link: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/FairNet_Poster.pdf',
     },
     {
