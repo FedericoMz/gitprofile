@@ -103,14 +103,14 @@ const config = {
       title: '2023. FairNet',
       description:
         'A library to reduce marginalization and promote diversity in networks.',
-      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/FairNet.png',
+      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/FairNet.jpg',
       link: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/FairNet_Poster.pdf',
     },
     {
       title: '2022. GenFair',
       description:
         'Improving fairness in tabular data, creating synthetic data with a genetic algorithm.',
-      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/GenFair.jpg', //'https://i.imgur.com/utmCqQY.png',
+      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/GenFair.png', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/GenFair',
     },
     {
