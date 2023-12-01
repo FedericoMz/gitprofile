@@ -97,14 +97,14 @@ const config = {
       description:
         'Multi-purpose hybrid decision maker based on Skeptical Learning. Also, a friend.',
       imageUrl: 'https://i.imgur.com/42PhvFU.jpg',
-      link: 'https://drive.google.com/file/d/199WsUBmAGolzcMYpdPuM_-Y3l5JOb1cd/view?usp=sharing',
+      link: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/Frank_Poster.pdf',
     },
     {
       title: '2023. FairNet',
       description:
         'A library to reduce marginalization and promote diversity in networks.',
       imageUrl: 'https://i.imgur.com/M0ncKwu.jpg',
-      link: 'https://drive.google.com/file/d/1rPOY6xiKxi3WggnMkfii2HhSC1x3bnvt/view?usp=sharing',
+      link: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/FairNet_Poster.pdf',
     },
     {
       title: '2022. GenFair',
