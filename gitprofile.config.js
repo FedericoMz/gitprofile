@@ -88,7 +88,7 @@ const config = {
       title: 'WIP. Trust Analyzer',
       description:
         'Quantifying and analysing trust in human - human networks and human - LLM interactions.',
-      imageUrl: 'https://i.imgur.com/pBEGkCH.png',
+      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/Trust.jpg',
       link: 'https://federicomz.github.io/',
 
     },
@@ -96,21 +96,21 @@ const config = {
       title: '2023. Frank',
       description:
         'Multi-purpose hybrid decision maker based on Skeptical Learning. Also, a friend.',
-      imageUrl: 'https://i.imgur.com/42PhvFU.jpg',
+      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/Frank.jpg',
       link: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/Frank_Poster.pdf',
     },
     {
       title: '2023. FairNet',
       description:
         'A library to reduce marginalization and promote diversity in networks.',
-      imageUrl: 'https://i.imgur.com/M0ncKwu.jpg',
+      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/FairNet.jpg',
       link: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/FairNet_Poster.pdf',
     },
     {
       title: '2022. GenFair',
       description:
         'Improving fairness in tabular data, creating synthetic data with a genetic algorithm.',
-      imageUrl: 'https://i.imgur.com/9WXNCK7.png', //'https://i.imgur.com/utmCqQY.png',
+      imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/GenFair.jpg', //'https://i.imgur.com/utmCqQY.png',
       link: 'https://github.com/FedericoMz/GenFair',
     },
     {
