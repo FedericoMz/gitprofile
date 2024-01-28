@@ -87,7 +87,7 @@ const config = {
     {
       title: '2024. Trust Analyzer',
       description:
-        'Quantifying and analysing trust in human - human networks and human - LLM interactions.\n*WIP - Click for a demo*',
+        'Quantifying and analysing trust in human - human networks and human - LLM interactions [WIP].',
       imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/Trust.png',
       link: 'https://gricetrust.streamlit.app/',
 
