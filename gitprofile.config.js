@@ -85,11 +85,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'WIP. Trust Analyzer',
+      title: '2024. Trust Analyzer',
       description:
-        'Quantifying and analysing trust in human - human networks and human - LLM interactions.',
+        'Quantifying and analysing trust in human - human networks and human - LLM interactions.\n*WIP - Click for a demo*',
       imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/Trust.png',
-      link: 'https://federicomz.github.io/',
+      link: 'https://gricetrust.streamlit.app/',
 
     },
     {
