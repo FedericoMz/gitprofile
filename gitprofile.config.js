@@ -7,7 +7,7 @@ const config = {
     limit: 2, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
-      projects: ['FairGen', 'DDAM-APPEAL', 'DM2-FMAProject', 'streamlit-exp', 'animals_streamlit'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['FairGen', 'DDAM-APPEAL', 'DM2-FMAProject', 'streamlit-exp', 'animals_streamlit', 'Frank'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -97,7 +97,7 @@ const config = {
       description:
         'Multi-purpose hybrid decision maker based on Skeptical Learning. Also, a friend.',
       imageUrl: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/icons/Frank.jpg',
-      link: 'https://raw.githubusercontent.com/FedericoMz/FedericoMz.github.io/main/Frank_Poster.pdf',
+      link: 'https://github.com/FedericoMz/Frank/',
     },
     {
       title: '2023. FairNet',
